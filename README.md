@@ -2,10 +2,10 @@
 
 **Running list** of all helpful resources that data teams can use.
 
-### Programming Tutorials
+### Programming Tutorials:
 
-### Software
+### Software:
 
-### Datasets
+### Datasets:
 
-### General Resources
+### General Resources:
